@@ -7,4 +7,4 @@ if m == 2:
 if m == 3:
     print("约饭（bug修复）")
 else:
-    print("不嘻嘻")
+    print("不嘻嘻") 
