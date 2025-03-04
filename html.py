@@ -5,6 +5,6 @@ if m == 1:
 if m == 2:
     print('你好')
 if m == 3:
-    print("约饭")
+    print("约饭（bug修复）")
 else:
     print("不嘻嘻")
