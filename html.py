@@ -6,5 +6,7 @@ if m == 2:
     print('你好')
 if m == 3:
     print("约饭")
+if m == 4:
+    print("商城开发50%")
 else:
     print("不嘻嘻")
